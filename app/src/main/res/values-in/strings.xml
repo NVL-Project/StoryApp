@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IRIT</string>
+    <string name="signup">Daftar</string>
+    <string name="create">Membuat</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Aplikasi media sosial ekonomis dan fleksibel pertama. Jika Anda sudah terdaftar, silakan masuk dan jika Anda belum mendaftar, daftar terlebih dahulu</string>
+    <string name="title_welcome_page">Selamat datang di Aplikasi IRIT!</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="description">Keterangan</string>
+    <string name="reload">Muat ulang</string>
+    <string name="story_image">Gambar Cerita</string>
+    <string name="detail_activity">Detail Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="galery">Galeri</string>
+    <string name="upload">Mengunggah</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="setting">Pengaturan</string>
+    <string name="failed_pictures">Gagal mengambil gambar.</string>
+    <string name="failed_camera">Gagal memunculkan kamera.</string>
+    <string name="story_upload">Upload cerita berhasil!</string>
+    <string name="add_description">Silakan masukkan deskripsi terlebih dahulu.</string>
+    <string name="add_image">Silakan masukkan file gambar terlebih dahulu.</string>
+    <string name="not_permission">Tidak mendapatkan izin.</string>
+    <string name="add_email">Masukan email</string>
+    <string name="add_password">Masukkan kata kunci</string>
+    <string name="login_success">Login berhasil!</string>
+    <string name="back_exit">Silakan klik KEMBALI lagi untuk keluar</string>
+    <string name="logout_success">Logout berhasil!</string>
+    <string name="add_name">Masukkan nama</string>
+    <string name="password_limite">Kata sandi kurang dari 6 karakter</string>
+    <string name="register_success">Daftar berhasil, silakan masuk!</string>
+    <string name="error_email">Email tidak valid</string>
+    <string name="enableGPS">Aktifkan GPS</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="add_loc">Silakan masukkan lokasi terlebih dahulu.</string>
+</resources>

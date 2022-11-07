@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">IRIT</string>
+    <string name="signup">Sign Up</string>
+    <string name="create">Create</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">The first economical and flexible social media app. If you are already registered, please log in and if you haven registered, sign up first</string>
+    <string name="title_welcome_page">Welcome in IRIT App!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="logout">Log Out</string>
+    <string name="description">Description</string>
+    <string name="reload">Reload</string>
+    <string name="story_image">Story Image</string>
+    <string name="detail_activity">Detail Story</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+    <string name="upload">Upload</string>
+    <string name="add_story">Add Story</string>
+    <string name="setting">Setting</string>
+    <string name="failed_pictures">Failed to take pictures.</string>
+    <string name="failed_camera">Failed to bring up camera.</string>
+    <string name="story_upload">Story upload successful!</string>
+    <string name="add_description">Please enter a description first.</string>
+    <string name="add_image">Please enter the image file first.</string>
+    <string name="not_permission">Not getting permission.</string>
+    <string name="add_email">Enter email</string>
+    <string name="add_password">Enter password</string>
+    <string name="login_success">Login successful!</string>
+    <string name="back_exit">Please click BACK again to exit</string>
+    <string name="logout_success">Logout successful!</string>
+    <string name="add_name">Enter name</string>
+    <string name="password_limite">Password less than 6 characters</string>
+    <string name="register_success">Register successfully, please login!</string>
+    <string name="error_email">Invalid email</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="title_activity_maps" translatable="false">Maps</string>
+    <string name="maps" translatable="false">Maps</string>
+    <string name="normal_type" translatable="false">Normal</string>
+    <string name="satellite_type" translatable="false">Satellite</string>
+    <string name="terrain_type" translatable="false">Terrain</string>
+    <string name="hybrid_type" translatable="false">Hybrid</string>
+    <string name="lati" translatable="false">Latitude    :</string>
+    <string name="loni" translatable="false">Longitude   :</string>
+    <string name="value" translatable="false">0.0</string>
+    <string name="enableGPS">Enable GPS</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add_loc">Please enter a location first.</string>
+</resources>
